@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm .NET Developer, but I am not afraid of challenges 😄
+
+Visit my main repo: [@MarcinK-ski](https://github.com/MarcinK-ski)
+
 <!--
 **TajniakoO/TajniakoO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
